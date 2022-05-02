@@ -1,2 +1,1 @@
-# Projeto-C10
-Este projeto está sendo direcionado para a Byjus, como o décimo projeto 
+# Projeto-10-Viajando-Num-Navio
